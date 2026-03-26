@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Scaling AI Apps & Improving Model Performance**
 
-- 👨‍💻 All of my projects are available at [saharaindia.vercel.app](saharaindia.vercel.app)
+- 👨‍💻 All of my projects are available at [saharaindia.vercel.app](pranavv-portfolio.vercel.app)
 
 - 💬 Ask me about **React, Next.js, GSAP, Web3, Firebase, AI APIs**
 
