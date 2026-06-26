@@ -188,5 +188,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 Stay curious. Keep building.
+> 💡 Truth can only be found in one place: the code. – Robert C. Martin
 <!--QUOTE_END-->
