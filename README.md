@@ -149,3 +149,9 @@ const pranav = {
   
   ![](https://komarev.com/ghpvc/?username=prnvmishra&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS)
 </div>
+
+## 💡 Today's Coding Wisdom
+
+<!--QUOTE_START-->
+> 💡 Stay curious. Keep building.
+<!--QUOTE_END-->
