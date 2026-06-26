@@ -17,26 +17,58 @@
 
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"> About Me
 
 ```javascript
 const pranav = {
     name: "Pranav Mishra",
-    role: "Full-Stack • AI • Full Stack Developer",
-    location: "Building intelligent, prompt-based user experiences",
-    
+    role: "Software Engineer • Full-Stack Developer • AI/ML Enthusiast",
+    education: "B.Tech CSE (AI/ML) @ SRMIST",
+    cgpa: "9.32/10 🎓",
+    location: "India 🇮🇳",
+
     expertise: {
-        languages: ["Python", "JavaScript", "TypeScript", "C++", "Java"],
+        languages: ["C++", "Java", "Python", "JavaScript", "TypeScript"],
         frontend: ["React", "Next.js", "Tailwind CSS", "GSAP"],
         backend: ["Node.js", "Express", "REST APIs", "GraphQL"],
         database: ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
-        aiml: ["TensorFlow", "PyTorch", "Scikit-learn", "Gemini API", "OpenCV"],
-        cloud: ["AWS", "Docker", "Kubernetes", "Vercel"]
+        aiml: ["TensorFlow", "Scikit-learn", "Gemini API", "OpenCV", "LLMs"],
+        cloud: ["AWS", "Docker", "Google Cloud", "Vercel"]
     },
-    
-    currentlyExploring: "Next.js 14 · TypeScript · Firebase · Gemini API · ML Basics",
-    motto: "I make AI do more work than humans 🤭"
+
+    achievements: [
+        "🏆 Adobe India Hackathon Semi-Finalist",
+        "🥇 Engineers Day Hackathon Winner",
+        "⚡ 300+ DSA Problems Solved",
+        "🏅 Smart India Hackathon Qualifier"
+    ],
+
+    currentlyExploring: [
+        "System Design",
+        "Distributed Systems",
+        "Machine Learning",
+        "Scalable Backend Engineering"
+    ],
+
+    motto: "Building intelligent software that solves real-world problems 🚀"
 };
+```
+## 💼 Experience
+
+### 🚀 Software Engineering Intern | WPSPOOLS
+
+```diff
++ Reduced API latency by 30%
++ Improved release cycle efficiency by 40%
++ Worked on scalable backend architectures
+```
+
+### 🤖 ML, Data Science & AI Intern | Coding Blocks
+
+```diff
++ Built end-to-end Machine Learning pipelines
++ Worked with NumPy, Pandas and Scikit-Learn
++ Developed scalable data processing workflows
 ```
 
 ## 🛠️ Tech Stack
@@ -142,6 +174,15 @@ const pranav = {
 </div>
 
 <div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/prnvmishra/prnvmishra/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake animation"
+    src="https://raw.githubusercontent.com/prnvmishra/prnvmishra/output/github-contribution-grid-snake.svg">
+</picture>
   
   ### 💫 Let's connect and create something extraordinary!
   
