@@ -161,19 +161,7 @@ const pranav = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prnvmishra&bg_color=00000000&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" />
 </div>
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prnvmishra&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&title=Stars,Followers,Commits,PullRequest" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-<div align="center">
 
 ## Pacman Contribution
 
