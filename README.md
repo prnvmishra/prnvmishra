@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 Make it work, make it right, make it fast. – Kent Beck
+> 💡 The best way to predict the future is to invent it. – Alan Kay
 <!--QUOTE_END-->
