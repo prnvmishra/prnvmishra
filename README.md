@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. – Dan Salomon
+> 💡 When to use iterative development? You should use iterative development only on projects that you want to succeed. – Martin Fowler
 <!--QUOTE_END-->
