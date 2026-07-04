@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 Truth can only be found in one place: the code. – Robert C. Martin
+> 💡 Simplicity is the soul of efficiency. – Austin Freeman
 <!--QUOTE_END-->
