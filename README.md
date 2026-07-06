@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 Any fool can write code that a computer can understand. Good programmers write code that humans can understand. – Martin Fowler
+> 💡 In order to be irreplaceable, one must always be different. – Coco Chanel
 <!--QUOTE_END-->
