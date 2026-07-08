@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 It's not a bug — it's an undocumented feature. – Anonymous
+> 💡 Any fool can write code that a computer can understand. Good programmers write code that humans can understand. – Martin Fowler
 <!--QUOTE_END-->
