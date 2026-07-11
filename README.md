@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 First, solve the problem. Then, write the code. – John Johnson
+> 💡 There are only two hard things in Computer Science: cache invalidation and naming things. – Phil Karlton
 <!--QUOTE_END-->
