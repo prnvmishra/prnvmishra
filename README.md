@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 Code never lies, comments sometimes do. – Ron Jeffries
+> 💡 Fix the cause, not the symptom. – Steve Maguire
 <!--QUOTE_END-->
