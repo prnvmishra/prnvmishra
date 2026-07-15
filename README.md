@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 Fix the cause, not the symptom. – Steve Maguire
+> 💡 Make it work, make it right, make it fast. – Kent Beck
 <!--QUOTE_END-->
