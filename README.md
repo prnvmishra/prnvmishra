@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 Make it work, make it right, make it fast. – Kent Beck
+> 💡 Weeks of coding can save you hours of planning. – Anonymous
 <!--QUOTE_END-->
