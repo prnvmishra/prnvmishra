@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 Talk is cheap. Show me the code. – Linus Torvalds
+> 💡 First, solve the problem. Then, write the code. – John Johnson
 <!--QUOTE_END-->
