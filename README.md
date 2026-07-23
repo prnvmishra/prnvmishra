@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. – Dan Salomon
+> 💡 The art of programming is the art of organizing complexity. – Edsger W. Dijkstra
 <!--QUOTE_END-->
