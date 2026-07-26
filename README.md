@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 Debugging is twice as hard as writing the code in the first place. – Brian W. Kernighan
+> 💡 One of the best programming skills you can have is knowing when to walk away for a while. – Oscar Godson
 <!--QUOTE_END-->
