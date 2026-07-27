@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 One of the best programming skills you can have is knowing when to walk away for a while. – Oscar Godson
+> 💡 In order to be irreplaceable, one must always be different. – Coco Chanel
 <!--QUOTE_END-->
