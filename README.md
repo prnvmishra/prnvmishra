@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 When to use iterative development? You should use iterative development only on projects that you want to succeed. – Martin Fowler
+> 💡 It's not a bug — it's an undocumented feature. – Anonymous
 <!--QUOTE_END-->
