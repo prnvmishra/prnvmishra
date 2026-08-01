@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 Ruby is rubbish! PHP is phpantastic! – Nikita Popov
+> 💡 When to use iterative development? You should use iterative development only on projects that you want to succeed. – Martin Fowler
 <!--QUOTE_END-->
