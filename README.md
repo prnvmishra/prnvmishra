@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 The best way to predict the future is to invent it. – Alan Kay
+> 💡 One of the best programming skills you can have is knowing when to walk away for a while. – Oscar Godson
 <!--QUOTE_END-->
