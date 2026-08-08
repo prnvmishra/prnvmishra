@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 One of the best programming skills you can have is knowing when to walk away for a while. – Oscar Godson
+> 💡 Talk is cheap. Show me the code. – Linus Torvalds
 <!--QUOTE_END-->
