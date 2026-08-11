@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 Java is to JavaScript what car is to Carpet. – Chris Heilmann
+> 💡 Ruby is rubbish! PHP is phpantastic! – Nikita Popov
 <!--QUOTE_END-->
