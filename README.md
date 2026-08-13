@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 Fix the cause, not the symptom. – Steve Maguire
+> 💡 Ruby is rubbish! PHP is phpantastic! – Nikita Popov
 <!--QUOTE_END-->
