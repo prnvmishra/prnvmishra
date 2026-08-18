@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 The most disastrous thing that you can ever learn is your first programming language. – Alan Kay
+> 💡 Programs must be written for people to read, and only incidentally for machines to execute. – Harold Abelson
 <!--QUOTE_END-->
