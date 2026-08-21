@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 Before software can be reusable it first has to be usable. – Ralph Johnson
+> 💡 The best error message is the one that never shows up. – Thomas Fuchs
 <!--QUOTE_END-->
