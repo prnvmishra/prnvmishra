@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 The best error message is the one that never shows up. – Thomas Fuchs
+> 💡 The function of good software is to make the complex appear to be simple. – Grady Booch
 <!--QUOTE_END-->
