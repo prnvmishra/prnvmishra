@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 The function of good software is to make the complex appear to be simple. – Grady Booch
+> 💡 Simplicity is the soul of efficiency. – Austin Freeman
 <!--QUOTE_END-->
