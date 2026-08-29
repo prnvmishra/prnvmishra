@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 Experience is the name everyone gives to their mistakes. – Oscar Wilde
+> 💡 Java is to JavaScript what car is to Carpet. – Chris Heilmann
 <!--QUOTE_END-->
