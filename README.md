@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 Knowledge is power. – Francis Bacon
+> 💡 Make it work, make it right, make it fast. – Kent Beck
 <!--QUOTE_END-->
