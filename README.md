@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 The art of programming is the art of organizing complexity. – Edsger W. Dijkstra
+> 💡 Any fool can write code that a computer can understand. Good programmers write code that humans can understand. – Martin Fowler
 <!--QUOTE_END-->
