@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 Code never lies, comments sometimes do. – Ron Jeffries
+> 💡 Java is to JavaScript what car is to Carpet. – Chris Heilmann
 <!--QUOTE_END-->
