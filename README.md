@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away. – Antoine de Saint-Exupéry
+> 💡 One of the best programming skills you can have is knowing when to walk away for a while. – Oscar Godson
 <!--QUOTE_END-->
