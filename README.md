@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 One of the best programming skills you can have is knowing when to walk away for a while. – Oscar Godson
+> 💡 Before software can be reusable it first has to be usable. – Ralph Johnson
 <!--QUOTE_END-->
