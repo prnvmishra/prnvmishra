@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 Before software can be reusable it first has to be usable. – Ralph Johnson
+> 💡 Ruby is rubbish! PHP is phpantastic! – Nikita Popov
 <!--QUOTE_END-->
