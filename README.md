@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 Ruby is rubbish! PHP is phpantastic! – Nikita Popov
+> 💡 Talk is cheap. Show me the code. – Linus Torvalds
 <!--QUOTE_END-->
