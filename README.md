@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 Talk is cheap. Show me the code. – Linus Torvalds
+> 💡 Weeks of coding can save you hours of planning. – Anonymous
 <!--QUOTE_END-->
