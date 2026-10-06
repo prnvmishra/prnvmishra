@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 The function of good software is to make the complex appear to be simple. – Grady Booch
+> 💡 It's not a bug — it's an undocumented feature. – Anonymous
 <!--QUOTE_END-->
