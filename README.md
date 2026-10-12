@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 Debugging is twice as hard as writing the code in the first place. – Brian W. Kernighan
+> 💡 In order to be irreplaceable, one must always be different. – Coco Chanel
 <!--QUOTE_END-->
