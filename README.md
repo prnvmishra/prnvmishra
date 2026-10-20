@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 Experience is the name everyone gives to their mistakes. – Oscar Wilde
+> 💡 The most disastrous thing that you can ever learn is your first programming language. – Alan Kay
 <!--QUOTE_END-->
