@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 The art of programming is the art of organizing complexity. – Edsger W. Dijkstra
+> 💡 Ruby is rubbish! PHP is phpantastic! – Nikita Popov
 <!--QUOTE_END-->
