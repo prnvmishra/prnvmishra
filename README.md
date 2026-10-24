@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 Ruby is rubbish! PHP is phpantastic! – Nikita Popov
+> 💡 Debugging is twice as hard as writing the code in the first place. – Brian W. Kernighan
 <!--QUOTE_END-->
