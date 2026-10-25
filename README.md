@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 Debugging is twice as hard as writing the code in the first place. – Brian W. Kernighan
+> 💡 The art of programming is the art of organizing complexity. – Edsger W. Dijkstra
 <!--QUOTE_END-->
