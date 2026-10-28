@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 Experience is the name everyone gives to their mistakes. – Oscar Wilde
+> 💡 The best error message is the one that never shows up. – Thomas Fuchs
 <!--QUOTE_END-->
