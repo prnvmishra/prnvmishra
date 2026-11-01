@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 Programs must be written for people to read, and only incidentally for machines to execute. – Harold Abelson
+> 💡 Truth can only be found in one place: the code. – Robert C. Martin
 <!--QUOTE_END-->
