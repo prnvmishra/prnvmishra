@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 There are only two hard things in Computer Science: cache invalidation and naming things. – Phil Karlton
+> 💡 In order to be irreplaceable, one must always be different. – Coco Chanel
 <!--QUOTE_END-->
