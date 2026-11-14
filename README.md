@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 Truth can only be found in one place: the code. – Robert C. Martin
+> 💡 The best way to predict the future is to invent it. – Alan Kay
 <!--QUOTE_END-->
