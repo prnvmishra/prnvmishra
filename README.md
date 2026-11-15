@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 The best way to predict the future is to invent it. – Alan Kay
+> 💡 Java is to JavaScript what car is to Carpet. – Chris Heilmann
 <!--QUOTE_END-->
