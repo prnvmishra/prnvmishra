@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 In order to be irreplaceable, one must always be different. – Coco Chanel
+> 💡 Weeks of coding can save you hours of planning. – Anonymous
 <!--QUOTE_END-->
