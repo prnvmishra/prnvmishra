@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 Weeks of coding can save you hours of planning. – Anonymous
+> 💡 Programs must be written for people to read, and only incidentally for machines to execute. – Harold Abelson
 <!--QUOTE_END-->
