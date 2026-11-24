@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 There are only two hard things in Computer Science: cache invalidation and naming things. – Phil Karlton
+> 💡 When to use iterative development? You should use iterative development only on projects that you want to succeed. – Martin Fowler
 <!--QUOTE_END-->
