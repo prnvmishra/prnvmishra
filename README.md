@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 The best error message is the one that never shows up. – Thomas Fuchs
+> 💡 Code never lies, comments sometimes do. – Ron Jeffries
 <!--QUOTE_END-->
