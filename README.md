@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 Code never lies, comments sometimes do. – Ron Jeffries
+> 💡 In order to be irreplaceable, one must always be different. – Coco Chanel
 <!--QUOTE_END-->
