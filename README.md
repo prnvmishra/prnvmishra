@@ -187,5 +187,5 @@ const pranav = {
 ## 💡 Today's Coding Wisdom
 
 <!--QUOTE_START-->
-> 💡 In order to be irreplaceable, one must always be different. – Coco Chanel
+> 💡 Before software can be reusable it first has to be usable. – Ralph Johnson
 <!--QUOTE_END-->
